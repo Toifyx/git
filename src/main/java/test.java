@@ -35,8 +35,8 @@ public class test {
 
     }
 
-    public void main(){
-        int a=0;
+    public void first(){
+        int a=1;
         System.out.println("test");
     }
 }
