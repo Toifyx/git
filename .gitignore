@@ -1,3 +1,6 @@
 test.iml
 /target
 /.idea
+src/main/java/aaa.java
+src/main/resources/
+src/test/
